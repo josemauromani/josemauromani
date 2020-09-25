@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ### &#128267; - Battery Chargers
-#### - Stay with my family  :family_man_woman_girl_girl: - I love this  
+#### Stay with my family  :family_man_woman_girl_girl: - I love this  :heart_eyes:
 
