@@ -1,5 +1,3 @@
-## Olá 👋
-
 [![](https://img.shields.io/github/last-commit/josemauromani/josemauromani)](https://www.linkedin.com/in/josemauromani/)
 
 ### Minhas redes sociais
