@@ -1,6 +1,7 @@
 ## Olá 👋
 
-
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josemauromani/)
+[![Email](https://img.shields.io/badge/-Outlook-blue?style=flat&logo=Mail&logoColor=white)](mailto:josemauromani@gmail.com)
 
 ### :rocket:
 
