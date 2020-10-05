@@ -14,6 +14,6 @@
  - Pedalar :mountain_bicyclist::sunrise_over_mountains:
 
 ### Livros - 2020
-- [Relacionamentos Importam: Lições de Paulo e das Pessoas que Impactaram sua Vida](https://www.amazon.com.br/Relacionamentos-Importam-Li%C3%A7%C3%B5es-Pessoas-Impactaram-ebook/dp/B08GCXXQKY) - (Estou lendo)
 - [Educando Meninas - James Dobson](https://www.amazon.com.br/Educando-meninas-James-Dobson-ebook/dp/B00BMC5P5A) - (Estou lendo)
+- [Relacionamentos Importam: Lições de Paulo e das Pessoas que Impactaram sua Vida](https://www.amazon.com.br/Relacionamentos-Importam-Li%C3%A7%C3%B5es-Pessoas-Impactaram-ebook/dp/B08GCXXQKY)
 - [O livro de ouro da liderança - John C. Maxwell  e  Omar de Souza](https://www.amazon.com.br/Livro-Ouro-Lideran%C3%A7a-John-Maxwell/dp/8566997336)
