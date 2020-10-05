@@ -4,8 +4,8 @@
 
 ### :rocket:
 
-
-[![My github stats](https://github-readme-stats.vercel.app/api?username=josemauromani)](https://github.com/josemauromani)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josemauromani&layout=compact)](https://github.com/josemauromani)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=josemauromani)](https://github.com/josemauromani)
 
 
 ### &#128267; O que carrega minha bateria e me livra do Burnout?
