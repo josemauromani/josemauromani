@@ -4,7 +4,7 @@
 
 ### :rocket:
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josemauromani&layout=compact&langs_count=9)](https://github.com/josemauromani) <br>
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josemauromani&layout=compact&langs_count=8)](https://github.com/josemauromani) <br>
 [![Github stats](https://github-readme-stats.vercel.app/api?username=josemauromani&show_icons=true&count_private=true)](https://github.com/josemauromani)
 
 
