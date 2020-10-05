@@ -5,7 +5,7 @@
 ### :rocket:
 
 
-[Status GitHub](https://github-readme-stats.vercel.app/api?username=josemauromani)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=josemauromani)](https://github.com/josemauromani)
 
 
 ### &#128267; O que carrega minha bateria e me livra do Burnout?
