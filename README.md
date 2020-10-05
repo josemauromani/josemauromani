@@ -1,10 +1,10 @@
-## Opa blz 👋
-##### Este documento está sendo construído ... 
+## Olá 👋
+
 
 
 ### :rocket:
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josemauromani&layout=compact)](https://github.com/josemauromani)
+[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josemauromani&layout=compact)](https://github.com/josemauromani) <br>
 [![Github stats](https://github-readme-stats.vercel.app/api?username=josemauromani)](https://github.com/josemauromani)
 
 
