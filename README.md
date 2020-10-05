@@ -1,8 +1,7 @@
 ## Olá 👋
 
+[![](https://img.shields.io/github/last-commit/josemauromani/josemauromani)](https://www.linkedin.com/in/josemauromani/)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josemauromani/)
-https://img.shields.io/github/last-commit/josemauromani/josemauromani
-
 ### :rocket:
 
 [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josemauromani&layout=compact&langs_count=8)](https://github.com/josemauromani) <br>
