@@ -1,4 +1,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josemauromani/)
+[![Gmail](https://img.shields.io/badge/-josemauromani@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:josemauromani@gmail.com)
+
 
 ### Github stats :rocket:
 
