@@ -10,7 +10,7 @@
 
 [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josemauromani&layout=compact&langs_count=8)](https://github.com/josemauromani) <br>
 [![Github stats](https://github-readme-stats.vercel.app/api?username=josemauromani&show_icons=true&count_private=true)](https://github.com/josemauromani)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=josemauromani)](https://github.com/josemauromani)
 
 ### &#128267; O que carrega minha bateria e me livra do Burnout?
  - Estar com minha família :family_man_woman_girl_girl::heart_eyes:
