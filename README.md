@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=josemauromani" alt="josemauromani" />
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josemauromani)
 [![Gmail](https://img.shields.io/badge/-josemauromani@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:josemauromani@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-Whatsapp-green?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/5514998408221)\
