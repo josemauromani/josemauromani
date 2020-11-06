@@ -1,5 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=josemauromani" alt="josemauromani" />
 
+### Conecte-se comigo :spider_web:
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josemauromani)
 [![Gmail](https://img.shields.io/badge/-josemauromani@gmail.com-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:josemauromani@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/-Whatsapp-green?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://wa.me/5514998408221)\
@@ -11,7 +13,7 @@
 ### Github stats :rocket:
 
 [![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josemauromani&layout=compact&langs_count=8)](https://github.com/josemauromani) <br>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=josemauromani&show_icons=true&count_private=true)](https://github.com/josemauromani)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=josemauromani&show_icons=true&count_private=true)](https://github.com/josemauromani) <br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=josemauromani&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### &#128267; O que carrega minha bateria e me livra do Burnout?
