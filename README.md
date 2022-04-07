@@ -1,5 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=josemauromani" alt="josemauromani" />
 
+Trabalho na área de tecnologia desde 2003. Participei de diversos projetos em diferentes áreas desde infraestrutura até design de produto. Desde 2019 tenho focado com desenvolvimento de sistemas para web e mobile.
+
 ### Conecte-se comigo :spider_web:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josemauromani)
