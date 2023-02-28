@@ -23,4 +23,5 @@ Trabalho na área de tecnologia desde 2003. Participei de diversos projetos em d
  - Servir a igreja local :church::pray:
  - Pedalar :mountain_bicyclist::sunrise_over_mountains:
 
-### :books: Livros - 2022
+### :books: Livros - 2023
+- Lideranca com Propositos
