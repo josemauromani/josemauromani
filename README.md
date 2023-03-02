@@ -14,9 +14,7 @@ Trabalho na área de tecnologia desde 2003. Participei de diversos projetos em d
 
 ### Github stats :rocket:
 
-[![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=josemauromani&layout=compact&langs_count=8)](https://github.com/josemauromani) <br>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=josemauromani&show_icons=true&count_private=true)](https://github.com/josemauromani) <br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=josemauromani&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=josemauromani&theme=nord_bright)
 
 ### &#128267; O que carrega minha bateria e me livra do Burnout?
  - Estar com minha família :family_man_woman_girl_girl::heart_eyes:
