@@ -22,5 +22,9 @@ Trabalho na área de tecnologia desde 2003. Participei de diversos projetos em d
  - Servir a igreja local :church::pray:
  - Pedalar :mountain_bicyclist::sunrise_over_mountains:
 
-### :books: Livros - 2023
-- Lideranca com Propositos
+### :books: Livros - 2024
+- Volta ao mundo em 80 dias - Julio Verne
+- Fé sempre crescente - Smith Wigglesworth
+- Como Flechas - Luciano Subirá (lendo)
+- Viagem ao centro da Terra - Julio Verne (lendo)
+
